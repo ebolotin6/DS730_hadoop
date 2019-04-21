@@ -606,7 +606,8 @@ The data is stored on S3 at the following locations:
 * **Flight data**: s3a://ebfp3/flight_data/
 * **Supplemental data** (carriers and airports): s3a://ebfp3/supp_data/
 
-### Questions and Answers - 
+### Questions and Answers
+---
 
 #### Question 1
 * Since 1987, which airline has most departure delays per year *for all 22 years of collected data*? Said differently: which airline was the most late the most often?
