@@ -1,6 +1,6 @@
 # Final Project - Part 3
 
-### Big data on AWS: Flight analysis project
+### Big data on AWS: Flight arrival times analysis
 
 ### About the data
 
